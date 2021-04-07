@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b761927b-2f60-4d4b-a25e-a8c4f7665643" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gopkg.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gopkg.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-controller.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/controller/controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/handlers/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/utils/k8sutil.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.16.2/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoDepProject">
+    <integration-enabled>true</integration-enabled>
+    <exec-path>/usr/local/bin/dep</exec-path>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1qpSymJvGW0FJhFf2Np5qK8k3Ly" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build k8s-demo-controller" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="k8s-demo-controller" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="k8s-demo-controller" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build k8s-demo-controller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="407" key="#Dep" timestamp="1617775477079">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="590" y="407" key="#Dep/0.23.1680.920@0.23.1680.920" timestamp="1617775477079" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom" timestamp="1617784953702">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.23.1680.920@0.23.1680.920" timestamp="1617784953702" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center" timestamp="1617784953701">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.23.1680.920@0.23.1680.920" timestamp="1617784953701" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left" timestamp="1617784953700">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.23.1680.920@0.23.1680.920" timestamp="1617784953700" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right" timestamp="1617784953702">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.23.1680.920@0.23.1680.920" timestamp="1617784953702" />
+    <state x="341" y="122" key="SettingsEditor" timestamp="1617782496020">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="341" y="122" key="SettingsEditor/0.23.1680.920@0.23.1680.920" timestamp="1617782496020" />
+    <state x="632" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617783322013">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="632" y="404" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.920@0.23.1680.920" timestamp="1617783322013" />
+    <state x="532" y="238" width="615" height="490" key="find.popup" timestamp="1617785016853">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="532" y="238" width="615" height="490" key="find.popup/0.23.1680.920@0.23.1680.920" timestamp="1617785016853" />
+    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1617783293595">
+      <screen x="0" y="23" width="1680" height="920" />
+    </state>
+    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1680.920@0.23.1680.920" timestamp="1617783293595" />
+  </component>
+</project>
